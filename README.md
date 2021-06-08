@@ -1,0 +1,2 @@
+# aws_cloudformation_template
+CloudFormation template for setup 2 instance with ELB This template will set up the following resources on aws . Two ec2-instances as we selected during setup we can select micro/small/medium instances as per our requirement. With this template both instances are configured with php 7.4, mysql7.6, composer And codedeploy-agent. Template will set up a Load Balancer attached with both instances.
